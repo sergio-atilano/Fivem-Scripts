@@ -1,4 +1,4 @@
-#ai_mechanic
+# ai_mechanic
 
 Added some changes to KNOBs 'ai_mechanic' (https://forum.cfx.re/t/release-ai-mechanic/756664) with some code taken and adapted from benpazzo's 'AI-Doctor-EMS' (https://github.com/benpazzo/AI-Doctor-EMS) that includes:
 
